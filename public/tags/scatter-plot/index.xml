@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scatter Plot on Zac&#39;s Data Science Blog</title>
+    <link>http://example.com/tags/scatter-plot/</link>
+    <description>Recent content in Scatter Plot on Zac&#39;s Data Science Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.com/tags/scatter-plot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scatter Plots</title>
+      <link>http://example.com/post/scatter-plots/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/scatter-plots/</guid>
+      <description>library(ggplot2)## Warning: package &amp;#39;ggplot2&amp;#39; was built under R version 3.4.1Let’s generate some random points:
+x&amp;lt;-rnorm(100,5,2)y&amp;lt;-rnorm(100,2*x+1,2)Now, let’s make a data frame:
+df&amp;lt;-data.frame(x,y)df## x y## 1 9.1825949 17.4429225## 2 6.1206586 12.7305405## 3 1.0277916 1.7860274## 4 2.6986227 3.5705399## 5 3.8033321 7.9066362## 6 9.1795053 17.3787909## 7 5.8699618 14.0141124## 8 6.3716657 10.4064857## 9 6.1576594 11.6474746## 10 2.7067366 6.2188058## 11 5.</description>
+    </item>
+    
+  </channel>
+</rss>
